@@ -10,6 +10,7 @@
 *Input: nums = [3,3], target = 6
 *Output: [0,1]
 */
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         for(int i=0; i<nums.length;i++ )
